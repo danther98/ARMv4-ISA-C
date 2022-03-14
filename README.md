@@ -13,8 +13,8 @@ This code is incomplete, some functions do not work properly and need trouble sh
    - SBC STR STRB SUB TEQ TST
    - SWI
   
-  -Using the make file you are able to compile the sim.c file into a sim.exe, with this you are able to simulate commands input from the .x files in inputs.
-  -to compile ARM commands into hex codes, use the arm2hex file.
+  - Using the make file you are able to compile the sim.c file into a sim.exe, with this you are able to simulate commands input from the .x files in inputs.
+  - to compile ARM commands into hex codes, use the arm2hex file.
   
   
   --Sim Commands--
